@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">10+ years of professional experience as a senior web developer in a broad variety of projects specializing in full-stack development. Experienced with all stages of the development cycle for dynamic and real-time web projects. Well-versed in numerous programming languages. Strong background in project management, customer relations, and IoT technology also, Cross-Compilation to target multiple platforms with one code base.</p>
+<p align="left">16+ years of professional experience as a senior web developer in a broad variety of projects specializing in full-stack development. Experienced with all stages of the development cycle for dynamic and real-time web projects. Well-versed in numerous programming languages. Strong background in project management, customer relations, and IoT technology also, Cross-Compilation to target multiple platforms with one code base.</p>
 
 ###
 
